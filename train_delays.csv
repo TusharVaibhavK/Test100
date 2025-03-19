@@ -1,0 +1,1001 @@
+From,To,Time,Weather,Day Type,Delay (min)
+Indore,Chennai,Afternoon,Rain,Holiday,47.37
+Mumbai,Chennai,Night,Rain,Weekday,51.02
+Lucknow,Patna,Midnight,Thunderstorm,Weekend,50.0
+Delhi,Chandigarh,Evening,Thunderstorm,Weekday,66.66
+Patna,Nagpur,Midnight,Fog,Weekday,30.53
+Indore,Bangalore,Morning,Fog,Holiday,38.18
+Chennai,Chandigarh,Afternoon,Rain,Holiday,42.62
+Nagpur,Lucknow,Morning,Rain,Weekday,46.48
+Chennai,Nagpur,Night,Fog,Weekend,31.64
+Chandigarh,Delhi,Midnight,Rain,Weekend,43.27
+Pune,Chandigarh,Evening,Rain,Weekend,46.47
+Ahmedabad,Delhi,Evening,Clear,Weekend,26.18
+Bangalore,Chennai,Afternoon,Hail,Holiday,52.52
+Chennai,Hyderabad,Evening,Fog,Weekend,51.72
+Nagpur,Bhopal,Morning,Thunderstorm,Holiday,64.98
+Kolkata,Ahmedabad,Midnight,Clear,Weekday,0.0
+Pune,Hyderabad,Afternoon,Clear,Weekday,0.0
+Mumbai,Pune,Midnight,Hail,Holiday,43.6
+Bhopal,Chennai,Morning,Clear,Holiday,11.45
+Lucknow,Chennai,Afternoon,Clear,Holiday,19.88
+Hyderabad,Mumbai,Early Morning,Fog,Holiday,45.1
+Nagpur,Jaipur,Night,Thunderstorm,Weekend,58.34
+Kolkata,Delhi,Night,Rain,Weekend,41.11
+Chennai,Lucknow,Midnight,Hail,Weekend,59.87
+Jaipur,Bhopal,Afternoon,Thunderstorm,Weekday,43.13
+Patna,Hyderabad,Evening,Fog,Weekend,32.11
+Nagpur,Ahmedabad,Evening,Rain,Weekday,63.68
+Indore,Bangalore,Morning,Clear,Weekday,0.93
+Bangalore,Indore,Evening,Rain,Holiday,53.09
+Chandigarh,Chennai,Early Morning,Thunderstorm,Holiday,53.0
+Chandigarh,Patna,Morning,Clear,Holiday,16.18
+Chandigarh,Pune,Early Morning,Clear,Holiday,32.37
+Nagpur,Lucknow,Morning,Rain,Weekday,59.83
+Mumbai,Lucknow,Early Morning,Rain,Weekend,20.63
+Mumbai,Pune,Evening,Fog,Weekend,45.97
+Bhopal,Delhi,Early Morning,Fog,Holiday,30.76
+Patna,Kolkata,Midnight,Clear,Weekend,6.07
+Delhi,Bangalore,Early Morning,Fog,Weekend,22.34
+Jaipur,Mumbai,Afternoon,Clear,Holiday,0.0
+Bangalore,Kolkata,Evening,Thunderstorm,Holiday,66.99
+Hyderabad,Ahmedabad,Early Morning,Clear,Holiday,22.16
+Lucknow,Bangalore,Evening,Fog,Holiday,43.9
+Hyderabad,Bangalore,Afternoon,Hail,Weekday,45.53
+Ahmedabad,Lucknow,Early Morning,Clear,Weekend,2.91
+Chandigarh,Jaipur,Midnight,Thunderstorm,Weekend,34.99
+Patna,Chandigarh,Early Morning,Fog,Holiday,31.53
+Hyderabad,Mumbai,Early Morning,Hail,Holiday,50.1
+Patna,Chennai,Midnight,Hail,Weekend,62.04
+Patna,Hyderabad,Afternoon,Fog,Weekday,43.5
+Delhi,Bangalore,Morning,Clear,Holiday,20.74
+Chennai,Hyderabad,Afternoon,Thunderstorm,Holiday,55.49
+Hyderabad,Mumbai,Midnight,Hail,Weekday,54.78
+Jaipur,Nagpur,Afternoon,Hail,Weekday,65.58
+Indore,Bangalore,Morning,Fog,Weekday,29.29
+Ahmedabad,Delhi,Midnight,Clear,Holiday,12.32
+Delhi,Pune,Midnight,Hail,Weekend,51.5
+Indore,Bhopal,Night,Fog,Holiday,29.13
+Jaipur,Chandigarh,Morning,Hail,Holiday,57.69
+Bangalore,Kolkata,Afternoon,Rain,Weekend,37.3
+Lucknow,Bhopal,Afternoon,Fog,Weekday,30.89
+Nagpur,Kolkata,Evening,Clear,Weekend,9.46
+Chennai,Lucknow,Afternoon,Thunderstorm,Weekend,38.86
+Delhi,Hyderabad,Night,Hail,Weekday,67.18
+Indore,Delhi,Afternoon,Thunderstorm,Weekend,55.21
+Hyderabad,Jaipur,Afternoon,Hail,Weekend,55.69
+Hyderabad,Kolkata,Afternoon,Hail,Weekday,46.56
+Patna,Bhopal,Morning,Fog,Weekend,48.08
+Ahmedabad,Nagpur,Morning,Thunderstorm,Holiday,62.36
+Pune,Patna,Afternoon,Hail,Weekday,58.38
+Jaipur,Bangalore,Midnight,Rain,Weekend,42.18
+Bangalore,Bhopal,Early Morning,Thunderstorm,Holiday,66.44
+Indore,Bangalore,Midnight,Hail,Weekday,66.16
+Chennai,Bangalore,Early Morning,Fog,Weekday,39.84
+Hyderabad,Kolkata,Morning,Fog,Weekday,39.71
+Mumbai,Delhi,Night,Fog,Holiday,37.31
+Chandigarh,Nagpur,Afternoon,Rain,Weekday,47.36
+Jaipur,Chennai,Early Morning,Thunderstorm,Holiday,48.97
+Bhopal,Hyderabad,Midnight,Hail,Holiday,61.81
+Mumbai,Indore,Morning,Rain,Weekend,53.61
+Patna,Indore,Afternoon,Fog,Weekday,40.34
+Chandigarh,Pune,Night,Hail,Weekday,59.67
+Delhi,Kolkata,Afternoon,Clear,Holiday,21.2
+Bhopal,Kolkata,Morning,Fog,Holiday,41.07
+Bhopal,Ahmedabad,Early Morning,Fog,Holiday,43.07
+Nagpur,Bhopal,Morning,Rain,Holiday,57.32
+Mumbai,Bangalore,Afternoon,Thunderstorm,Weekend,68.88
+Chennai,Nagpur,Evening,Rain,Weekend,46.99
+Indore,Mumbai,Early Morning,Fog,Weekday,32.6
+Bangalore,Hyderabad,Afternoon,Thunderstorm,Holiday,55.12
+Patna,Bhopal,Midnight,Rain,Holiday,39.27
+Hyderabad,Indore,Morning,Clear,Weekend,21.22
+Mumbai,Lucknow,Morning,Fog,Weekend,31.01
+Kolkata,Ahmedabad,Night,Thunderstorm,Holiday,57.47
+Jaipur,Patna,Morning,Clear,Holiday,39.58
+Bangalore,Mumbai,Afternoon,Rain,Holiday,46.66
+Indore,Delhi,Early Morning,Fog,Weekday,43.04
+Jaipur,Delhi,Morning,Clear,Weekday,29.39
+Chandigarh,Ahmedabad,Early Morning,Fog,Weekend,47.0
+Nagpur,Lucknow,Afternoon,Fog,Weekend,27.11
+Jaipur,Pune,Afternoon,Rain,Holiday,54.01
+Kolkata,Indore,Night,Fog,Weekend,22.24
+Chennai,Indore,Evening,Fog,Weekend,34.5
+Lucknow,Delhi,Afternoon,Thunderstorm,Weekday,42.12
+Bhopal,Chandigarh,Afternoon,Fog,Weekday,30.81
+Ahmedabad,Chandigarh,Evening,Rain,Weekday,39.95
+Ahmedabad,Pune,Afternoon,Thunderstorm,Holiday,55.17
+Chennai,Nagpur,Morning,Thunderstorm,Weekend,62.27
+Indore,Patna,Night,Clear,Weekday,26.41
+Jaipur,Bhopal,Morning,Thunderstorm,Weekday,52.89
+Mumbai,Lucknow,Evening,Hail,Holiday,69.77
+Kolkata,Nagpur,Afternoon,Hail,Weekend,53.32
+Delhi,Chennai,Afternoon,Clear,Weekday,11.26
+Pune,Indore,Night,Thunderstorm,Holiday,62.0
+Chennai,Lucknow,Evening,Rain,Holiday,32.67
+Kolkata,Mumbai,Midnight,Clear,Weekend,11.73
+Delhi,Pune,Night,Rain,Weekend,43.06
+Bhopal,Hyderabad,Midnight,Thunderstorm,Weekday,50.47
+Hyderabad,Jaipur,Morning,Thunderstorm,Weekend,60.36
+Lucknow,Nagpur,Night,Hail,Weekend,49.13
+Patna,Pune,Night,Clear,Holiday,5.83
+Hyderabad,Jaipur,Evening,Clear,Weekend,24.07
+Patna,Mumbai,Night,Fog,Weekday,20.25
+Lucknow,Delhi,Morning,Fog,Holiday,36.08
+Chandigarh,Kolkata,Morning,Rain,Weekend,57.88
+Delhi,Pune,Midnight,Hail,Holiday,61.34
+Indore,Delhi,Early Morning,Fog,Holiday,39.91
+Chandigarh,Jaipur,Morning,Clear,Weekday,15.66
+Bhopal,Jaipur,Morning,Hail,Weekend,74.03
+Chennai,Nagpur,Early Morning,Rain,Weekday,43.18
+Chandigarh,Patna,Early Morning,Clear,Weekday,11.25
+Hyderabad,Ahmedabad,Afternoon,Rain,Holiday,37.29
+Hyderabad,Jaipur,Midnight,Rain,Weekend,39.68
+Hyderabad,Jaipur,Early Morning,Hail,Weekday,60.97
+Delhi,Lucknow,Night,Thunderstorm,Holiday,46.86
+Jaipur,Pune,Night,Fog,Weekend,47.55
+Kolkata,Lucknow,Early Morning,Clear,Weekend,11.49
+Patna,Hyderabad,Evening,Clear,Holiday,37.23
+Bangalore,Jaipur,Afternoon,Rain,Holiday,43.27
+Jaipur,Bhopal,Morning,Clear,Holiday,18.8
+Chennai,Hyderabad,Morning,Hail,Weekend,69.72
+Bangalore,Hyderabad,Night,Clear,Weekday,17.26
+Delhi,Lucknow,Night,Clear,Weekend,13.57
+Jaipur,Bangalore,Midnight,Thunderstorm,Weekday,43.56
+Nagpur,Pune,Midnight,Hail,Weekend,52.95
+Bangalore,Chandigarh,Midnight,Clear,Holiday,7.5
+Delhi,Patna,Evening,Clear,Holiday,29.99
+Bhopal,Jaipur,Night,Clear,Weekend,0.17
+Kolkata,Hyderabad,Evening,Thunderstorm,Weekend,56.87
+Chandigarh,Indore,Early Morning,Hail,Holiday,63.5
+Ahmedabad,Delhi,Early Morning,Fog,Weekday,8.58
+Patna,Delhi,Early Morning,Rain,Weekend,42.4
+Jaipur,Chandigarh,Early Morning,Rain,Holiday,45.74
+Bangalore,Chennai,Midnight,Thunderstorm,Weekday,68.88
+Indore,Lucknow,Midnight,Thunderstorm,Holiday,55.81
+Bangalore,Chennai,Morning,Hail,Holiday,70.42
+Kolkata,Pune,Evening,Thunderstorm,Weekday,65.37
+Ahmedabad,Jaipur,Evening,Thunderstorm,Weekend,73.73
+Mumbai,Indore,Night,Thunderstorm,Holiday,57.14
+Hyderabad,Pune,Early Morning,Hail,Holiday,48.51
+Lucknow,Bangalore,Early Morning,Clear,Weekend,14.09
+Pune,Mumbai,Afternoon,Clear,Weekday,21.81
+Indore,Patna,Morning,Fog,Weekday,38.5
+Mumbai,Patna,Early Morning,Rain,Weekday,38.5
+Nagpur,Kolkata,Early Morning,Thunderstorm,Weekday,49.56
+Indore,Hyderabad,Morning,Thunderstorm,Weekend,59.02
+Patna,Mumbai,Early Morning,Rain,Holiday,53.38
+Bhopal,Patna,Night,Clear,Weekday,3.4
+Chandigarh,Chennai,Evening,Fog,Holiday,55.16
+Bhopal,Ahmedabad,Evening,Hail,Holiday,60.71
+Delhi,Kolkata,Afternoon,Rain,Holiday,38.95
+Pune,Delhi,Morning,Thunderstorm,Weekday,85.62
+Lucknow,Chandigarh,Morning,Hail,Weekday,52.64
+Bangalore,Bhopal,Midnight,Fog,Weekend,38.13
+Hyderabad,Kolkata,Early Morning,Fog,Weekday,27.08
+Indore,Pune,Afternoon,Hail,Holiday,56.11
+Pune,Jaipur,Morning,Thunderstorm,Holiday,63.09
+Hyderabad,Nagpur,Midnight,Thunderstorm,Weekday,58.6
+Pune,Chennai,Evening,Hail,Weekday,66.38
+Lucknow,Jaipur,Early Morning,Rain,Holiday,40.25
+Kolkata,Bangalore,Early Morning,Hail,Holiday,58.37
+Delhi,Mumbai,Early Morning,Hail,Holiday,59.48
+Bhopal,Indore,Midnight,Hail,Holiday,48.72
+Hyderabad,Jaipur,Morning,Hail,Weekend,71.51
+Ahmedabad,Nagpur,Afternoon,Fog,Weekday,39.73
+Kolkata,Bangalore,Afternoon,Hail,Weekend,70.72
+Chennai,Pune,Evening,Fog,Weekday,41.28
+Indore,Jaipur,Afternoon,Clear,Weekday,2.0
+Hyderabad,Delhi,Afternoon,Hail,Weekday,39.29
+Chennai,Delhi,Morning,Clear,Holiday,23.91
+Chennai,Lucknow,Morning,Thunderstorm,Weekday,77.44
+Hyderabad,Kolkata,Afternoon,Clear,Weekend,0.76
+Pune,Chandigarh,Evening,Rain,Weekday,69.55
+Bhopal,Chennai,Early Morning,Rain,Holiday,51.27
+Ahmedabad,Kolkata,Afternoon,Hail,Holiday,59.12
+Indore,Patna,Morning,Thunderstorm,Weekday,78.99
+Patna,Mumbai,Afternoon,Clear,Holiday,17.74
+Nagpur,Chandigarh,Afternoon,Rain,Weekend,42.33
+Bangalore,Hyderabad,Night,Hail,Weekend,47.72
+Pune,Bangalore,Afternoon,Thunderstorm,Holiday,43.22
+Delhi,Pune,Afternoon,Thunderstorm,Holiday,43.03
+Patna,Ahmedabad,Evening,Thunderstorm,Weekday,38.65
+Lucknow,Mumbai,Afternoon,Hail,Holiday,42.96
+Indore,Lucknow,Midnight,Fog,Weekend,27.89
+Delhi,Chandigarh,Evening,Fog,Weekend,47.95
+Bangalore,Delhi,Early Morning,Hail,Weekday,63.85
+Bhopal,Nagpur,Afternoon,Hail,Weekday,65.04
+Chennai,Ahmedabad,Evening,Hail,Weekday,60.92
+Kolkata,Bangalore,Evening,Clear,Holiday,12.16
+Pune,Jaipur,Midnight,Fog,Weekend,48.72
+Patna,Delhi,Early Morning,Clear,Holiday,28.15
+Indore,Kolkata,Evening,Rain,Weekday,41.23
+Hyderabad,Delhi,Afternoon,Thunderstorm,Holiday,67.33
+Ahmedabad,Chennai,Morning,Thunderstorm,Holiday,79.74
+Delhi,Mumbai,Night,Hail,Weekday,56.98
+Lucknow,Chandigarh,Early Morning,Clear,Weekday,14.92
+Chandigarh,Delhi,Evening,Hail,Weekend,59.63
+Patna,Jaipur,Midnight,Thunderstorm,Holiday,57.44
+Chandigarh,Mumbai,Evening,Hail,Holiday,50.28
+Lucknow,Patna,Midnight,Hail,Holiday,57.49
+Nagpur,Chandigarh,Early Morning,Rain,Weekday,29.58
+Patna,Kolkata,Early Morning,Clear,Holiday,24.7
+Hyderabad,Pune,Night,Thunderstorm,Weekday,71.08
+Jaipur,Nagpur,Morning,Thunderstorm,Weekday,64.76
+Mumbai,Bangalore,Morning,Thunderstorm,Weekend,65.81
+Chennai,Bhopal,Evening,Hail,Holiday,64.26
+Jaipur,Pune,Afternoon,Rain,Weekday,29.29
+Jaipur,Ahmedabad,Evening,Clear,Weekend,21.53
+Hyderabad,Lucknow,Afternoon,Thunderstorm,Weekend,59.73
+Pune,Bangalore,Early Morning,Clear,Weekday,14.71
+Pune,Indore,Afternoon,Rain,Weekend,23.24
+Ahmedabad,Delhi,Afternoon,Thunderstorm,Weekday,33.31
+Patna,Mumbai,Morning,Hail,Weekday,72.37
+Bangalore,Pune,Evening,Rain,Weekday,48.12
+Ahmedabad,Hyderabad,Night,Clear,Weekday,0.41
+Chennai,Bangalore,Morning,Hail,Weekday,58.78
+Chandigarh,Indore,Afternoon,Thunderstorm,Holiday,40.25
+Kolkata,Ahmedabad,Evening,Rain,Weekend,42.43
+Nagpur,Patna,Afternoon,Fog,Holiday,42.75
+Chennai,Ahmedabad,Evening,Clear,Weekend,6.51
+Patna,Hyderabad,Midnight,Hail,Holiday,52.43
+Ahmedabad,Hyderabad,Morning,Thunderstorm,Weekend,61.25
+Chandigarh,Lucknow,Early Morning,Rain,Weekend,26.85
+Indore,Mumbai,Early Morning,Thunderstorm,Holiday,68.51
+Ahmedabad,Jaipur,Evening,Thunderstorm,Holiday,60.61
+Indore,Pune,Evening,Fog,Holiday,46.47
+Bhopal,Chennai,Morning,Clear,Weekday,30.64
+Chennai,Indore,Evening,Fog,Holiday,67.68
+Nagpur,Jaipur,Night,Clear,Weekend,3.15
+Chandigarh,Bhopal,Morning,Hail,Weekday,66.67
+Bangalore,Pune,Evening,Fog,Holiday,20.99
+Indore,Chandigarh,Midnight,Rain,Weekday,38.79
+Bangalore,Kolkata,Afternoon,Fog,Weekday,38.69
+Lucknow,Jaipur,Morning,Fog,Holiday,35.68
+Lucknow,Bhopal,Night,Rain,Weekday,32.0
+Chennai,Pune,Morning,Rain,Holiday,40.36
+Bangalore,Kolkata,Evening,Thunderstorm,Weekday,58.17
+Pune,Delhi,Night,Hail,Holiday,52.55
+Nagpur,Ahmedabad,Afternoon,Thunderstorm,Weekend,60.44
+Hyderabad,Bangalore,Early Morning,Clear,Weekend,13.26
+Delhi,Kolkata,Early Morning,Fog,Weekend,34.66
+Jaipur,Nagpur,Morning,Clear,Holiday,14.17
+Jaipur,Pune,Night,Hail,Holiday,59.83
+Bangalore,Kolkata,Morning,Hail,Weekend,78.53
+Nagpur,Indore,Night,Fog,Weekday,24.0
+Pune,Bhopal,Night,Hail,Weekday,50.27
+Bhopal,Lucknow,Morning,Rain,Holiday,40.21
+Jaipur,Ahmedabad,Midnight,Thunderstorm,Weekday,63.18
+Hyderabad,Mumbai,Morning,Clear,Weekday,37.37
+Bhopal,Kolkata,Afternoon,Hail,Weekday,52.06
+Delhi,Patna,Early Morning,Hail,Weekday,53.33
+Hyderabad,Mumbai,Night,Clear,Weekend,12.51
+Nagpur,Indore,Evening,Clear,Weekday,24.37
+Jaipur,Pune,Morning,Hail,Holiday,71.4
+Patna,Delhi,Midnight,Hail,Weekday,45.22
+Patna,Indore,Early Morning,Thunderstorm,Weekend,48.84
+Indore,Jaipur,Night,Thunderstorm,Weekend,60.69
+Chandigarh,Ahmedabad,Evening,Thunderstorm,Weekday,64.24
+Chandigarh,Kolkata,Afternoon,Rain,Weekday,26.48
+Mumbai,Chandigarh,Afternoon,Clear,Weekend,9.6
+Hyderabad,Lucknow,Early Morning,Rain,Weekday,42.26
+Chandigarh,Patna,Morning,Fog,Weekday,58.89
+Ahmedabad,Nagpur,Evening,Rain,Weekend,44.82
+Chennai,Bhopal,Midnight,Hail,Weekday,57.48
+Ahmedabad,Bangalore,Afternoon,Fog,Holiday,57.58
+Jaipur,Bhopal,Night,Clear,Weekend,10.84
+Hyderabad,Ahmedabad,Evening,Clear,Holiday,18.58
+Bhopal,Lucknow,Afternoon,Rain,Holiday,25.7
+Bhopal,Patna,Morning,Hail,Weekday,50.08
+Mumbai,Ahmedabad,Evening,Clear,Weekend,19.44
+Chennai,Hyderabad,Evening,Hail,Holiday,49.41
+Nagpur,Lucknow,Morning,Hail,Holiday,68.59
+Lucknow,Kolkata,Afternoon,Hail,Weekday,38.19
+Hyderabad,Kolkata,Evening,Clear,Weekday,24.18
+Ahmedabad,Pune,Morning,Fog,Holiday,59.25
+Jaipur,Bhopal,Evening,Hail,Weekday,63.67
+Mumbai,Bangalore,Evening,Rain,Holiday,66.91
+Nagpur,Patna,Night,Rain,Holiday,33.58
+Jaipur,Indore,Early Morning,Thunderstorm,Weekday,62.29
+Kolkata,Bhopal,Night,Fog,Holiday,34.17
+Chandigarh,Jaipur,Night,Rain,Weekend,38.71
+Kolkata,Chandigarh,Midnight,Hail,Weekday,46.13
+Delhi,Bangalore,Night,Hail,Weekday,50.63
+Pune,Bhopal,Morning,Hail,Weekday,55.6
+Bangalore,Patna,Night,Clear,Weekend,1.86
+Chandigarh,Kolkata,Night,Clear,Holiday,14.74
+Lucknow,Bhopal,Midnight,Rain,Holiday,42.92
+Jaipur,Delhi,Early Morning,Thunderstorm,Weekend,45.95
+Hyderabad,Chandigarh,Night,Fog,Holiday,57.9
+Chandigarh,Patna,Evening,Thunderstorm,Holiday,51.26
+Patna,Nagpur,Morning,Fog,Weekday,30.75
+Indore,Chandigarh,Night,Rain,Weekday,25.5
+Mumbai,Chandigarh,Evening,Rain,Weekday,32.91
+Mumbai,Chandigarh,Afternoon,Thunderstorm,Weekday,46.58
+Bhopal,Chandigarh,Morning,Fog,Holiday,40.07
+Delhi,Jaipur,Early Morning,Fog,Weekend,22.3
+Bhopal,Patna,Night,Rain,Holiday,40.14
+Ahmedabad,Lucknow,Midnight,Hail,Weekend,57.97
+Bhopal,Bangalore,Evening,Rain,Weekday,48.07
+Chandigarh,Hyderabad,Evening,Rain,Holiday,41.78
+Patna,Bhopal,Midnight,Hail,Weekend,57.25
+Delhi,Nagpur,Early Morning,Fog,Weekend,39.68
+Ahmedabad,Jaipur,Evening,Rain,Weekend,55.61
+Patna,Nagpur,Evening,Clear,Holiday,28.97
+Lucknow,Kolkata,Midnight,Fog,Holiday,35.01
+Pune,Delhi,Evening,Rain,Weekday,51.54
+Ahmedabad,Indore,Afternoon,Rain,Weekday,51.55
+Indore,Chennai,Morning,Hail,Weekday,69.84
+Indore,Delhi,Evening,Fog,Holiday,61.72
+Patna,Jaipur,Evening,Rain,Holiday,47.96
+Ahmedabad,Jaipur,Evening,Rain,Weekend,53.6
+Pune,Bangalore,Evening,Clear,Weekday,12.39
+Kolkata,Hyderabad,Midnight,Clear,Holiday,16.26
+Mumbai,Lucknow,Evening,Rain,Weekday,45.0
+Chennai,Mumbai,Evening,Rain,Weekday,47.63
+Lucknow,Patna,Evening,Fog,Holiday,43.47
+Bangalore,Patna,Morning,Hail,Weekday,54.86
+Pune,Mumbai,Night,Rain,Holiday,35.47
+Jaipur,Lucknow,Afternoon,Thunderstorm,Weekend,51.06
+Ahmedabad,Indore,Night,Hail,Weekday,43.92
+Pune,Patna,Morning,Fog,Weekday,33.03
+Pune,Kolkata,Morning,Rain,Weekday,18.83
+Nagpur,Patna,Evening,Rain,Weekend,37.45
+Bhopal,Chandigarh,Early Morning,Thunderstorm,Weekend,46.33
+Patna,Bhopal,Midnight,Hail,Weekday,61.32
+Pune,Jaipur,Midnight,Clear,Weekday,7.56
+Indore,Hyderabad,Evening,Clear,Weekday,23.45
+Indore,Pune,Afternoon,Fog,Holiday,40.81
+Jaipur,Chennai,Evening,Clear,Weekday,22.52
+Delhi,Nagpur,Early Morning,Clear,Holiday,11.46
+Lucknow,Hyderabad,Midnight,Fog,Weekend,30.31
+Bangalore,Pune,Night,Fog,Holiday,47.07
+Hyderabad,Mumbai,Evening,Clear,Holiday,22.23
+Chennai,Chandigarh,Evening,Clear,Weekend,28.34
+Indore,Delhi,Afternoon,Thunderstorm,Holiday,57.9
+Hyderabad,Jaipur,Midnight,Fog,Weekend,21.58
+Bangalore,Hyderabad,Night,Thunderstorm,Weekend,56.03
+Kolkata,Bhopal,Afternoon,Fog,Holiday,46.38
+Bangalore,Kolkata,Midnight,Hail,Weekend,66.54
+Jaipur,Lucknow,Night,Hail,Weekday,51.73
+Lucknow,Delhi,Morning,Clear,Weekday,9.89
+Chennai,Kolkata,Morning,Clear,Weekday,32.02
+Chennai,Bhopal,Evening,Rain,Weekday,45.66
+Hyderabad,Ahmedabad,Evening,Thunderstorm,Holiday,64.47
+Bangalore,Jaipur,Evening,Clear,Weekend,31.45
+Nagpur,Bangalore,Night,Rain,Weekday,36.4
+Kolkata,Mumbai,Early Morning,Rain,Weekday,31.69
+Nagpur,Bangalore,Night,Rain,Weekday,12.09
+Nagpur,Mumbai,Midnight,Fog,Holiday,13.74
+Hyderabad,Delhi,Night,Rain,Weekend,44.38
+Nagpur,Jaipur,Early Morning,Clear,Weekend,0.51
+Kolkata,Delhi,Evening,Thunderstorm,Weekday,64.35
+Jaipur,Delhi,Midnight,Hail,Holiday,38.67
+Hyderabad,Chennai,Afternoon,Rain,Weekday,34.19
+Ahmedabad,Chennai,Morning,Clear,Holiday,42.69
+Hyderabad,Jaipur,Night,Hail,Weekday,42.26
+Delhi,Jaipur,Night,Rain,Holiday,21.45
+Chennai,Chandigarh,Evening,Rain,Weekend,43.44
+Indore,Bangalore,Afternoon,Hail,Weekday,42.08
+Jaipur,Indore,Evening,Clear,Weekday,18.71
+Kolkata,Bhopal,Midnight,Fog,Holiday,44.73
+Hyderabad,Kolkata,Afternoon,Clear,Weekday,18.11
+Delhi,Bangalore,Evening,Thunderstorm,Weekday,52.14
+Bhopal,Jaipur,Midnight,Clear,Weekday,5.9
+Indore,Jaipur,Night,Fog,Holiday,57.33
+Pune,Hyderabad,Afternoon,Hail,Weekday,53.13
+Bhopal,Indore,Night,Clear,Weekday,15.08
+Chennai,Indore,Afternoon,Clear,Holiday,31.78
+Mumbai,Chandigarh,Afternoon,Hail,Holiday,41.17
+Mumbai,Nagpur,Morning,Fog,Holiday,49.37
+Chennai,Pune,Afternoon,Hail,Holiday,55.82
+Ahmedabad,Hyderabad,Evening,Fog,Holiday,34.76
+Indore,Delhi,Midnight,Rain,Weekday,36.77
+Kolkata,Nagpur,Evening,Hail,Holiday,55.72
+Pune,Chennai,Morning,Fog,Weekday,43.99
+Mumbai,Bangalore,Midnight,Hail,Holiday,52.54
+Patna,Indore,Morning,Clear,Holiday,9.07
+Delhi,Nagpur,Midnight,Rain,Holiday,40.97
+Indore,Bangalore,Midnight,Hail,Holiday,66.38
+Indore,Kolkata,Evening,Clear,Holiday,21.35
+Ahmedabad,Mumbai,Midnight,Thunderstorm,Weekend,51.7
+Pune,Mumbai,Early Morning,Fog,Weekday,32.68
+Chennai,Ahmedabad,Morning,Clear,Weekend,23.59
+Chandigarh,Indore,Night,Rain,Weekday,45.03
+Jaipur,Ahmedabad,Night,Fog,Holiday,25.63
+Nagpur,Delhi,Night,Clear,Weekday,17.24
+Jaipur,Hyderabad,Midnight,Thunderstorm,Holiday,61.5
+Jaipur,Chennai,Morning,Hail,Weekday,58.84
+Jaipur,Bangalore,Afternoon,Thunderstorm,Weekend,44.55
+Chandigarh,Pune,Evening,Clear,Weekend,17.71
+Pune,Bangalore,Night,Rain,Holiday,35.79
+Pune,Jaipur,Evening,Hail,Weekend,60.63
+Indore,Chennai,Afternoon,Rain,Weekend,32.9
+Hyderabad,Indore,Evening,Rain,Weekday,20.0
+Bangalore,Pune,Midnight,Thunderstorm,Holiday,33.34
+Chennai,Pune,Evening,Thunderstorm,Weekend,68.18
+Chandigarh,Bangalore,Midnight,Thunderstorm,Weekend,53.91
+Chennai,Lucknow,Afternoon,Clear,Holiday,7.7
+Lucknow,Delhi,Early Morning,Rain,Holiday,37.34
+Lucknow,Chandigarh,Morning,Fog,Weekday,21.25
+Patna,Jaipur,Midnight,Thunderstorm,Holiday,51.27
+Chennai,Lucknow,Morning,Rain,Weekend,39.72
+Ahmedabad,Bangalore,Night,Clear,Holiday,24.36
+Patna,Ahmedabad,Evening,Fog,Holiday,60.5
+Bangalore,Nagpur,Midnight,Hail,Holiday,61.0
+Indore,Bangalore,Evening,Hail,Weekday,50.11
+Chennai,Nagpur,Afternoon,Hail,Holiday,55.49
+Delhi,Kolkata,Midnight,Fog,Weekend,32.4
+Lucknow,Bhopal,Midnight,Thunderstorm,Weekend,53.79
+Chennai,Patna,Night,Rain,Weekday,42.5
+Chandigarh,Delhi,Morning,Clear,Weekend,4.78
+Jaipur,Lucknow,Afternoon,Rain,Holiday,35.04
+Bhopal,Ahmedabad,Afternoon,Thunderstorm,Weekday,40.95
+Chennai,Chandigarh,Morning,Thunderstorm,Weekend,73.64
+Bangalore,Chandigarh,Early Morning,Clear,Weekday,26.34
+Pune,Chandigarh,Early Morning,Hail,Weekday,50.28
+Jaipur,Pune,Midnight,Rain,Weekday,36.27
+Indore,Mumbai,Early Morning,Hail,Weekend,27.93
+Bangalore,Nagpur,Evening,Thunderstorm,Weekday,54.37
+Chandigarh,Pune,Evening,Thunderstorm,Weekday,50.17
+Kolkata,Patna,Midnight,Clear,Weekend,2.65
+Bangalore,Delhi,Night,Thunderstorm,Holiday,66.75
+Lucknow,Nagpur,Early Morning,Rain,Weekday,43.6
+Patna,Mumbai,Evening,Fog,Weekend,44.24
+Pune,Bangalore,Midnight,Clear,Weekend,0.0
+Ahmedabad,Chandigarh,Night,Rain,Holiday,38.18
+Delhi,Kolkata,Midnight,Rain,Weekend,44.0
+Chennai,Pune,Night,Rain,Weekday,45.46
+Bhopal,Bangalore,Evening,Rain,Holiday,34.28
+Mumbai,Patna,Morning,Thunderstorm,Holiday,68.96
+Lucknow,Bhopal,Early Morning,Rain,Weekend,19.5
+Nagpur,Kolkata,Early Morning,Clear,Holiday,34.68
+Hyderabad,Nagpur,Night,Rain,Weekend,56.0
+Patna,Pune,Morning,Clear,Weekday,40.34
+Hyderabad,Bhopal,Afternoon,Hail,Weekend,48.71
+Nagpur,Hyderabad,Midnight,Clear,Weekday,2.29
+Hyderabad,Lucknow,Early Morning,Thunderstorm,Holiday,45.48
+Mumbai,Delhi,Afternoon,Rain,Weekend,26.95
+Chandigarh,Pune,Afternoon,Clear,Holiday,30.08
+Lucknow,Delhi,Evening,Clear,Weekday,22.46
+Delhi,Patna,Night,Clear,Weekend,11.22
+Nagpur,Mumbai,Afternoon,Fog,Weekend,42.12
+Ahmedabad,Lucknow,Evening,Fog,Weekday,69.02
+Indore,Mumbai,Evening,Clear,Weekday,13.35
+Nagpur,Delhi,Night,Thunderstorm,Holiday,62.27
+Ahmedabad,Indore,Midnight,Thunderstorm,Weekend,53.13
+Delhi,Ahmedabad,Morning,Hail,Holiday,62.95
+Patna,Nagpur,Evening,Clear,Holiday,20.7
+Indore,Lucknow,Afternoon,Fog,Holiday,38.53
+Indore,Bangalore,Evening,Thunderstorm,Weekend,60.61
+Chennai,Hyderabad,Morning,Fog,Weekday,48.67
+Jaipur,Chandigarh,Midnight,Rain,Holiday,36.49
+Chandigarh,Jaipur,Morning,Fog,Weekend,47.6
+Patna,Hyderabad,Morning,Clear,Holiday,29.48
+Kolkata,Patna,Midnight,Rain,Holiday,43.63
+Ahmedabad,Pune,Midnight,Rain,Holiday,43.18
+Bhopal,Delhi,Night,Clear,Holiday,8.01
+Lucknow,Pune,Night,Hail,Weekday,42.89
+Bhopal,Kolkata,Early Morning,Clear,Weekday,5.13
+Chennai,Indore,Night,Thunderstorm,Weekend,40.25
+Lucknow,Chandigarh,Evening,Hail,Weekday,56.94
+Indore,Bangalore,Morning,Clear,Holiday,24.42
+Patna,Lucknow,Early Morning,Fog,Holiday,49.69
+Chandigarh,Chennai,Night,Rain,Weekday,35.51
+Bangalore,Chandigarh,Midnight,Clear,Holiday,33.2
+Jaipur,Lucknow,Morning,Fog,Weekend,54.05
+Kolkata,Hyderabad,Night,Hail,Weekday,34.53
+Chennai,Bangalore,Evening,Fog,Weekend,41.23
+Chandigarh,Kolkata,Evening,Clear,Holiday,13.9
+Kolkata,Mumbai,Midnight,Rain,Weekday,53.44
+Lucknow,Nagpur,Morning,Thunderstorm,Holiday,62.4
+Pune,Patna,Evening,Clear,Weekend,24.41
+Patna,Hyderabad,Morning,Clear,Weekday,30.52
+Patna,Nagpur,Early Morning,Rain,Weekday,45.08
+Bangalore,Indore,Night,Thunderstorm,Holiday,69.37
+Chandigarh,Hyderabad,Early Morning,Fog,Weekday,38.24
+Chennai,Chandigarh,Night,Fog,Holiday,41.21
+Chennai,Patna,Afternoon,Thunderstorm,Holiday,70.44
+Hyderabad,Nagpur,Night,Thunderstorm,Holiday,61.57
+Bangalore,Kolkata,Morning,Hail,Weekday,50.26
+Pune,Nagpur,Morning,Fog,Weekday,34.23
+Bangalore,Jaipur,Afternoon,Thunderstorm,Weekday,64.67
+Lucknow,Nagpur,Afternoon,Fog,Weekend,43.39
+Pune,Kolkata,Evening,Rain,Holiday,41.64
+Delhi,Kolkata,Midnight,Thunderstorm,Weekday,37.09
+Kolkata,Chennai,Evening,Rain,Weekday,48.95
+Kolkata,Indore,Morning,Thunderstorm,Weekend,38.4
+Nagpur,Jaipur,Early Morning,Thunderstorm,Holiday,44.11
+Hyderabad,Bangalore,Night,Thunderstorm,Weekday,44.97
+Indore,Hyderabad,Afternoon,Hail,Weekday,60.05
+Chennai,Bhopal,Evening,Rain,Weekday,51.52
+Ahmedabad,Nagpur,Morning,Rain,Holiday,38.3
+Kolkata,Pune,Early Morning,Clear,Holiday,6.0
+Indore,Chandigarh,Early Morning,Thunderstorm,Weekend,47.45
+Mumbai,Nagpur,Midnight,Clear,Weekend,12.89
+Chandigarh,Bhopal,Early Morning,Clear,Holiday,0.0
+Patna,Lucknow,Evening,Rain,Weekday,43.11
+Indore,Lucknow,Afternoon,Hail,Weekday,52.82
+Delhi,Indore,Early Morning,Thunderstorm,Weekday,57.93
+Chandigarh,Lucknow,Afternoon,Thunderstorm,Weekend,68.05
+Hyderabad,Patna,Morning,Thunderstorm,Weekday,52.06
+Bhopal,Chandigarh,Early Morning,Clear,Holiday,21.31
+Nagpur,Pune,Early Morning,Rain,Weekday,23.25
+Bhopal,Bangalore,Early Morning,Fog,Holiday,34.56
+Hyderabad,Kolkata,Afternoon,Hail,Weekday,37.45
+Bhopal,Chennai,Morning,Rain,Weekend,48.26
+Chandigarh,Delhi,Afternoon,Fog,Weekend,45.13
+Kolkata,Indore,Morning,Rain,Weekend,43.65
+Chandigarh,Patna,Night,Fog,Holiday,23.7
+Ahmedabad,Mumbai,Midnight,Thunderstorm,Holiday,35.59
+Bhopal,Ahmedabad,Night,Hail,Holiday,65.36
+Bangalore,Hyderabad,Early Morning,Thunderstorm,Holiday,62.02
+Bangalore,Lucknow,Midnight,Rain,Weekend,41.17
+Kolkata,Delhi,Morning,Hail,Weekday,52.07
+Delhi,Kolkata,Afternoon,Hail,Weekend,46.54
+Bhopal,Bangalore,Early Morning,Hail,Holiday,50.19
+Pune,Bangalore,Night,Hail,Weekend,55.08
+Bhopal,Bangalore,Midnight,Rain,Weekday,29.96
+Kolkata,Pune,Afternoon,Fog,Holiday,39.41
+Mumbai,Chennai,Afternoon,Rain,Weekend,45.46
+Jaipur,Pune,Afternoon,Fog,Holiday,47.38
+Indore,Kolkata,Morning,Hail,Weekday,34.89
+Patna,Nagpur,Midnight,Thunderstorm,Holiday,51.98
+Kolkata,Hyderabad,Evening,Hail,Holiday,43.19
+Hyderabad,Delhi,Midnight,Fog,Holiday,42.19
+Hyderabad,Ahmedabad,Afternoon,Hail,Weekday,43.98
+Bangalore,Indore,Morning,Thunderstorm,Weekday,62.53
+Nagpur,Chennai,Morning,Rain,Weekend,42.8
+Ahmedabad,Indore,Afternoon,Fog,Weekend,15.42
+Bhopal,Pune,Morning,Clear,Holiday,17.17
+Mumbai,Jaipur,Evening,Thunderstorm,Holiday,79.01
+Patna,Chandigarh,Morning,Fog,Weekday,52.16
+Nagpur,Chennai,Afternoon,Fog,Weekday,20.4
+Kolkata,Pune,Early Morning,Thunderstorm,Weekday,50.2
+Kolkata,Ahmedabad,Afternoon,Clear,Holiday,28.97
+Patna,Kolkata,Early Morning,Clear,Weekend,5.03
+Lucknow,Chandigarh,Afternoon,Fog,Holiday,48.2
+Indore,Patna,Midnight,Hail,Holiday,75.61
+Pune,Indore,Early Morning,Clear,Weekend,0.0
+Ahmedabad,Indore,Afternoon,Fog,Weekend,23.8
+Ahmedabad,Patna,Morning,Thunderstorm,Weekend,62.45
+Bangalore,Indore,Afternoon,Rain,Weekday,21.68
+Nagpur,Chandigarh,Afternoon,Thunderstorm,Holiday,55.4
+Mumbai,Nagpur,Midnight,Clear,Weekday,7.17
+Indore,Nagpur,Early Morning,Clear,Holiday,24.87
+Bhopal,Ahmedabad,Evening,Thunderstorm,Weekend,47.55
+Patna,Lucknow,Afternoon,Thunderstorm,Holiday,46.33
+Mumbai,Indore,Afternoon,Fog,Weekday,24.8
+Chandigarh,Lucknow,Evening,Hail,Holiday,56.9
+Jaipur,Patna,Early Morning,Thunderstorm,Holiday,54.51
+Delhi,Indore,Night,Fog,Holiday,43.35
+Jaipur,Lucknow,Early Morning,Hail,Weekend,43.79
+Chennai,Patna,Morning,Clear,Holiday,17.85
+Kolkata,Ahmedabad,Afternoon,Hail,Weekend,47.99
+Indore,Jaipur,Night,Fog,Weekend,37.43
+Chandigarh,Hyderabad,Afternoon,Thunderstorm,Holiday,54.15
+Nagpur,Bhopal,Morning,Thunderstorm,Weekday,65.19
+Bhopal,Patna,Night,Rain,Weekday,43.41
+Hyderabad,Ahmedabad,Afternoon,Fog,Weekday,45.82
+Chandigarh,Mumbai,Midnight,Clear,Weekend,4.41
+Pune,Jaipur,Early Morning,Thunderstorm,Holiday,56.75
+Indore,Chennai,Early Morning,Rain,Weekend,30.32
+Mumbai,Chennai,Early Morning,Fog,Weekend,16.55
+Bangalore,Mumbai,Night,Hail,Holiday,52.55
+Kolkata,Hyderabad,Night,Rain,Holiday,27.78
+Bangalore,Nagpur,Night,Hail,Holiday,46.93
+Ahmedabad,Pune,Afternoon,Hail,Holiday,51.23
+Hyderabad,Lucknow,Midnight,Hail,Holiday,44.05
+Jaipur,Bangalore,Early Morning,Rain,Weekday,38.54
+Hyderabad,Patna,Evening,Hail,Weekday,70.3
+Indore,Nagpur,Midnight,Thunderstorm,Weekday,68.0
+Delhi,Lucknow,Evening,Thunderstorm,Holiday,78.72
+Pune,Lucknow,Early Morning,Hail,Weekday,42.13
+Hyderabad,Indore,Afternoon,Thunderstorm,Weekend,46.83
+Pune,Indore,Early Morning,Hail,Weekday,57.27
+Patna,Hyderabad,Morning,Rain,Weekend,67.41
+Ahmedabad,Lucknow,Midnight,Rain,Weekday,24.08
+Indore,Hyderabad,Evening,Hail,Weekend,40.26
+Lucknow,Mumbai,Early Morning,Thunderstorm,Holiday,45.56
+Chandigarh,Bangalore,Midnight,Clear,Weekend,22.84
+Mumbai,Patna,Afternoon,Fog,Holiday,46.07
+Bhopal,Nagpur,Midnight,Clear,Holiday,0.0
+Nagpur,Chandigarh,Midnight,Thunderstorm,Holiday,52.06
+Patna,Hyderabad,Midnight,Thunderstorm,Weekend,63.87
+Patna,Mumbai,Early Morning,Thunderstorm,Weekday,49.55
+Jaipur,Pune,Midnight,Rain,Weekend,34.79
+Indore,Ahmedabad,Evening,Rain,Holiday,53.04
+Chandigarh,Bhopal,Evening,Hail,Weekend,59.59
+Pune,Chennai,Afternoon,Fog,Weekday,41.85
+Hyderabad,Mumbai,Evening,Thunderstorm,Weekday,45.95
+Hyderabad,Bhopal,Midnight,Hail,Weekday,71.16
+Ahmedabad,Lucknow,Evening,Clear,Weekday,31.35
+Hyderabad,Kolkata,Night,Rain,Weekday,30.9
+Lucknow,Bangalore,Night,Thunderstorm,Holiday,49.44
+Lucknow,Jaipur,Morning,Rain,Weekend,29.99
+Bhopal,Delhi,Night,Clear,Weekday,23.38
+Bangalore,Mumbai,Early Morning,Clear,Holiday,25.06
+Kolkata,Bhopal,Afternoon,Hail,Holiday,68.76
+Delhi,Jaipur,Early Morning,Fog,Holiday,43.21
+Bhopal,Mumbai,Early Morning,Thunderstorm,Holiday,44.46
+Delhi,Indore,Midnight,Hail,Weekend,45.35
+Delhi,Nagpur,Afternoon,Fog,Weekend,28.35
+Nagpur,Kolkata,Night,Rain,Weekday,37.48
+Hyderabad,Bangalore,Evening,Thunderstorm,Holiday,59.04
+Bhopal,Chennai,Afternoon,Rain,Weekday,28.54
+Kolkata,Jaipur,Afternoon,Clear,Holiday,19.96
+Hyderabad,Ahmedabad,Early Morning,Thunderstorm,Weekday,43.14
+Jaipur,Delhi,Evening,Hail,Holiday,79.05
+Ahmedabad,Lucknow,Night,Rain,Weekday,33.71
+Hyderabad,Mumbai,Midnight,Rain,Weekday,44.35
+Nagpur,Chandigarh,Night,Fog,Weekend,40.6
+Chennai,Nagpur,Evening,Fog,Weekend,43.17
+Kolkata,Delhi,Early Morning,Fog,Weekday,24.04
+Chandigarh,Lucknow,Midnight,Hail,Weekend,52.08
+Bhopal,Nagpur,Night,Hail,Weekend,49.19
+Pune,Mumbai,Morning,Rain,Weekend,40.08
+Bangalore,Bhopal,Midnight,Clear,Weekday,13.32
+Pune,Kolkata,Night,Rain,Weekday,51.14
+Chandigarh,Jaipur,Early Morning,Rain,Weekend,31.76
+Kolkata,Lucknow,Morning,Rain,Weekend,58.42
+Kolkata,Nagpur,Midnight,Hail,Weekday,44.55
+Ahmedabad,Hyderabad,Midnight,Clear,Weekday,18.97
+Jaipur,Mumbai,Midnight,Fog,Weekday,29.44
+Pune,Bhopal,Morning,Rain,Weekend,38.28
+Delhi,Kolkata,Early Morning,Thunderstorm,Weekday,55.68
+Lucknow,Kolkata,Morning,Clear,Weekday,5.66
+Delhi,Patna,Night,Thunderstorm,Holiday,67.46
+Bhopal,Chandigarh,Evening,Thunderstorm,Holiday,67.36
+Hyderabad,Pune,Night,Fog,Weekday,30.41
+Pune,Chandigarh,Midnight,Clear,Weekday,10.88
+Hyderabad,Mumbai,Afternoon,Hail,Weekday,39.33
+Hyderabad,Bangalore,Night,Thunderstorm,Weekday,39.9
+Chennai,Nagpur,Morning,Thunderstorm,Weekday,54.64
+Chennai,Nagpur,Night,Clear,Weekend,7.64
+Delhi,Mumbai,Evening,Clear,Weekday,27.28
+Bhopal,Bangalore,Midnight,Thunderstorm,Weekend,54.23
+Kolkata,Jaipur,Morning,Rain,Weekend,59.0
+Bangalore,Chandigarh,Night,Hail,Weekend,42.9
+Hyderabad,Nagpur,Afternoon,Fog,Holiday,29.7
+Chennai,Hyderabad,Night,Hail,Weekend,67.69
+Ahmedabad,Chandigarh,Midnight,Clear,Holiday,22.25
+Hyderabad,Lucknow,Night,Thunderstorm,Weekday,43.88
+Patna,Ahmedabad,Night,Clear,Holiday,21.27
+Chennai,Bangalore,Morning,Hail,Weekday,64.82
+Chandigarh,Lucknow,Afternoon,Thunderstorm,Weekday,37.98
+Chennai,Bangalore,Evening,Rain,Weekend,33.98
+Indore,Kolkata,Evening,Thunderstorm,Weekend,59.45
+Jaipur,Indore,Morning,Clear,Holiday,23.16
+Chandigarh,Mumbai,Morning,Rain,Weekend,39.99
+Delhi,Mumbai,Afternoon,Fog,Holiday,28.04
+Patna,Nagpur,Afternoon,Thunderstorm,Weekday,55.84
+Indore,Bhopal,Midnight,Clear,Weekday,6.14
+Delhi,Chennai,Night,Rain,Holiday,45.63
+Jaipur,Mumbai,Midnight,Thunderstorm,Weekday,63.81
+Patna,Lucknow,Afternoon,Clear,Holiday,10.97
+Mumbai,Delhi,Night,Fog,Holiday,55.87
+Bhopal,Mumbai,Night,Rain,Holiday,54.61
+Chennai,Nagpur,Afternoon,Clear,Weekend,2.52
+Mumbai,Indore,Morning,Rain,Weekend,54.69
+Pune,Bangalore,Evening,Thunderstorm,Weekend,58.27
+Chandigarh,Mumbai,Morning,Hail,Weekend,42.56
+Delhi,Jaipur,Evening,Hail,Weekday,69.91
+Bhopal,Pune,Night,Hail,Weekend,47.03
+Patna,Chandigarh,Midnight,Thunderstorm,Weekday,54.01
+Patna,Kolkata,Morning,Rain,Holiday,84.77
+Patna,Pune,Morning,Fog,Holiday,45.47
+Patna,Kolkata,Early Morning,Fog,Weekend,18.59
+Ahmedabad,Nagpur,Early Morning,Thunderstorm,Weekday,71.31
+Ahmedabad,Kolkata,Midnight,Thunderstorm,Weekday,53.83
+Hyderabad,Lucknow,Afternoon,Fog,Weekend,46.26
+Patna,Pune,Afternoon,Hail,Weekend,52.06
+Chandigarh,Hyderabad,Morning,Rain,Holiday,43.43
+Kolkata,Hyderabad,Evening,Clear,Holiday,35.53
+Bhopal,Bangalore,Afternoon,Thunderstorm,Weekend,46.22
+Ahmedabad,Lucknow,Midnight,Rain,Weekend,12.55
+Chennai,Chandigarh,Afternoon,Fog,Weekday,20.91
+Lucknow,Kolkata,Afternoon,Clear,Weekend,0.0
+Ahmedabad,Pune,Morning,Rain,Holiday,50.66
+Kolkata,Indore,Morning,Thunderstorm,Holiday,65.7
+Lucknow,Chennai,Evening,Thunderstorm,Weekday,64.37
+Bangalore,Nagpur,Morning,Rain,Weekday,43.92
+Kolkata,Jaipur,Morning,Rain,Weekend,72.81
+Jaipur,Chennai,Evening,Rain,Holiday,53.78
+Indore,Bangalore,Night,Hail,Weekday,38.56
+Mumbai,Indore,Afternoon,Fog,Weekday,33.46
+Ahmedabad,Chennai,Morning,Fog,Holiday,41.82
+Indore,Hyderabad,Midnight,Clear,Weekend,0.0
+Nagpur,Patna,Night,Hail,Holiday,77.2
+Kolkata,Ahmedabad,Midnight,Clear,Weekend,16.23
+Jaipur,Hyderabad,Evening,Hail,Holiday,74.62
+Hyderabad,Delhi,Afternoon,Clear,Holiday,3.42
+Mumbai,Chennai,Afternoon,Clear,Weekend,2.3
+Bangalore,Kolkata,Early Morning,Clear,Holiday,10.12
+Pune,Ahmedabad,Midnight,Rain,Holiday,50.99
+Ahmedabad,Pune,Morning,Rain,Weekend,41.73
+Pune,Indore,Early Morning,Thunderstorm,Weekday,51.82
+Kolkata,Lucknow,Night,Thunderstorm,Holiday,68.2
+Nagpur,Jaipur,Morning,Hail,Weekend,81.44
+Lucknow,Bangalore,Afternoon,Rain,Weekday,45.85
+Patna,Kolkata,Early Morning,Fog,Weekday,31.52
+Mumbai,Bangalore,Night,Clear,Weekend,21.33
+Bangalore,Chandigarh,Early Morning,Thunderstorm,Weekday,52.82
+Patna,Chennai,Midnight,Fog,Weekend,35.92
+Indore,Ahmedabad,Morning,Rain,Weekday,34.69
+Nagpur,Pune,Morning,Rain,Holiday,49.11
+Patna,Lucknow,Afternoon,Fog,Weekend,41.65
+Pune,Kolkata,Night,Clear,Weekday,17.92
+Delhi,Nagpur,Evening,Clear,Holiday,34.62
+Bangalore,Ahmedabad,Morning,Fog,Weekday,34.05
+Chennai,Delhi,Evening,Fog,Weekend,42.01
+Jaipur,Chennai,Midnight,Thunderstorm,Holiday,59.73
+Pune,Nagpur,Evening,Hail,Weekday,65.96
+Hyderabad,Jaipur,Morning,Hail,Weekday,72.81
+Bhopal,Kolkata,Afternoon,Fog,Weekend,50.9
+Patna,Ahmedabad,Morning,Hail,Weekday,71.94
+Mumbai,Lucknow,Evening,Hail,Holiday,70.99
+Ahmedabad,Indore,Early Morning,Hail,Weekend,44.26
+Delhi,Mumbai,Morning,Rain,Weekday,51.88
+Nagpur,Bangalore,Evening,Rain,Holiday,40.19
+Delhi,Ahmedabad,Midnight,Hail,Weekend,53.37
+Delhi,Chandigarh,Afternoon,Thunderstorm,Weekday,57.92
+Chennai,Bhopal,Evening,Hail,Holiday,65.27
+Patna,Ahmedabad,Midnight,Hail,Weekday,63.13
+Bangalore,Lucknow,Afternoon,Hail,Weekend,55.13
+Bangalore,Patna,Morning,Thunderstorm,Weekday,48.37
+Bangalore,Kolkata,Afternoon,Clear,Weekend,19.07
+Bangalore,Pune,Midnight,Hail,Weekday,37.56
+Hyderabad,Chennai,Morning,Rain,Weekday,51.94
+Lucknow,Pune,Afternoon,Rain,Weekday,47.48
+Jaipur,Nagpur,Night,Clear,Holiday,15.45
+Chennai,Nagpur,Midnight,Rain,Holiday,39.23
+Indore,Delhi,Night,Fog,Weekend,39.2
+Chennai,Kolkata,Midnight,Clear,Weekend,0.0
+Bangalore,Jaipur,Morning,Fog,Holiday,45.24
+Hyderabad,Bangalore,Evening,Rain,Holiday,45.88
+Pune,Bhopal,Night,Clear,Holiday,20.08
+Mumbai,Hyderabad,Evening,Thunderstorm,Weekend,75.69
+Patna,Chandigarh,Evening,Fog,Weekend,43.64
+Bangalore,Chennai,Afternoon,Thunderstorm,Holiday,60.79
+Mumbai,Kolkata,Early Morning,Hail,Weekday,57.46
+Kolkata,Delhi,Afternoon,Clear,Weekend,0.0
+Ahmedabad,Kolkata,Afternoon,Fog,Weekday,42.24
+Ahmedabad,Indore,Night,Hail,Weekday,52.28
+Jaipur,Hyderabad,Midnight,Clear,Holiday,5.09
+Mumbai,Kolkata,Evening,Hail,Weekend,72.58
+Jaipur,Bhopal,Afternoon,Clear,Weekend,3.08
+Lucknow,Bhopal,Midnight,Thunderstorm,Weekday,48.56
+Pune,Nagpur,Early Morning,Rain,Holiday,35.99
+Nagpur,Chennai,Morning,Thunderstorm,Weekend,72.14
+Patna,Lucknow,Early Morning,Thunderstorm,Holiday,48.15
+Chennai,Indore,Afternoon,Fog,Weekday,33.06
+Chandigarh,Delhi,Early Morning,Rain,Weekend,29.96
+Indore,Chandigarh,Morning,Fog,Weekday,46.62
+Jaipur,Patna,Midnight,Rain,Weekday,28.71
+Indore,Hyderabad,Morning,Clear,Holiday,21.79
+Jaipur,Bhopal,Midnight,Fog,Weekend,31.42
+Kolkata,Bangalore,Night,Clear,Weekday,13.37
+Hyderabad,Kolkata,Midnight,Rain,Weekday,38.71
+Mumbai,Kolkata,Night,Fog,Weekday,39.23
+Ahmedabad,Jaipur,Afternoon,Thunderstorm,Weekday,49.89
+Mumbai,Ahmedabad,Afternoon,Hail,Holiday,66.3
+Ahmedabad,Hyderabad,Morning,Clear,Weekday,30.52
+Lucknow,Kolkata,Morning,Hail,Holiday,62.16
+Jaipur,Chandigarh,Night,Hail,Weekday,59.28
+Mumbai,Nagpur,Afternoon,Rain,Weekday,35.35
+Delhi,Pune,Morning,Hail,Holiday,68.96
+Pune,Jaipur,Afternoon,Clear,Holiday,5.27
+Delhi,Mumbai,Night,Fog,Weekend,41.36
+Patna,Hyderabad,Early Morning,Rain,Weekend,33.18
+Hyderabad,Bhopal,Night,Clear,Weekend,10.13
+Mumbai,Ahmedabad,Evening,Rain,Weekday,49.2
+Ahmedabad,Bhopal,Morning,Thunderstorm,Weekday,65.26
+Mumbai,Ahmedabad,Night,Hail,Weekend,51.0
+Bhopal,Patna,Morning,Thunderstorm,Holiday,44.86
+Bangalore,Delhi,Evening,Clear,Weekend,16.77
+Mumbai,Nagpur,Morning,Rain,Holiday,53.94
+Bhopal,Nagpur,Night,Clear,Weekday,5.87
+Chennai,Hyderabad,Evening,Fog,Weekend,37.33
+Jaipur,Chennai,Morning,Clear,Weekend,16.33
+Jaipur,Lucknow,Early Morning,Hail,Holiday,47.57
+Chennai,Chandigarh,Evening,Thunderstorm,Holiday,79.66
+Ahmedabad,Indore,Night,Clear,Holiday,9.62
+Hyderabad,Bhopal,Night,Rain,Weekday,39.42
+Bhopal,Chandigarh,Evening,Clear,Weekday,18.98
+Bangalore,Chandigarh,Morning,Rain,Weekday,27.07
+Patna,Chennai,Morning,Thunderstorm,Holiday,59.98
+Kolkata,Indore,Afternoon,Thunderstorm,Holiday,64.86
+Nagpur,Pune,Midnight,Hail,Weekday,36.68
+Chennai,Pune,Midnight,Hail,Weekend,57.4
+Nagpur,Patna,Early Morning,Rain,Weekend,35.13
+Nagpur,Bhopal,Morning,Fog,Holiday,48.28
+Delhi,Kolkata,Afternoon,Clear,Holiday,20.15
+Pune,Kolkata,Early Morning,Fog,Weekend,9.7
+Patna,Nagpur,Evening,Hail,Weekend,47.36
+Jaipur,Mumbai,Night,Hail,Weekday,37.54
+Bhopal,Nagpur,Early Morning,Clear,Weekday,8.51
+Nagpur,Indore,Early Morning,Fog,Weekend,27.99
+Kolkata,Chennai,Midnight,Rain,Weekend,38.35
+Delhi,Bangalore,Evening,Rain,Weekday,59.31
+Indore,Mumbai,Night,Rain,Weekday,39.62
+Chandigarh,Chennai,Morning,Thunderstorm,Weekend,46.32
+Delhi,Lucknow,Early Morning,Rain,Holiday,49.3
+Mumbai,Patna,Evening,Fog,Holiday,45.54
+Patna,Mumbai,Early Morning,Rain,Holiday,49.15
+Bhopal,Delhi,Early Morning,Clear,Holiday,19.05
+Bhopal,Patna,Evening,Clear,Weekend,39.02
+Chennai,Kolkata,Morning,Fog,Weekend,63.22
+Hyderabad,Lucknow,Morning,Thunderstorm,Weekday,50.58
+Indore,Chandigarh,Night,Clear,Weekday,5.91
+Jaipur,Chandigarh,Midnight,Clear,Weekend,16.12
+Bangalore,Chennai,Morning,Fog,Holiday,60.57
+Indore,Lucknow,Midnight,Thunderstorm,Holiday,48.77
+Jaipur,Bangalore,Evening,Clear,Holiday,27.46
+Patna,Lucknow,Morning,Fog,Holiday,46.15
+Chennai,Bangalore,Midnight,Rain,Holiday,52.08
+Pune,Bangalore,Morning,Rain,Weekday,29.14
+Bangalore,Mumbai,Night,Thunderstorm,Weekend,33.24
+Patna,Lucknow,Morning,Fog,Weekday,46.11
+Pune,Chandigarh,Early Morning,Hail,Weekday,56.98
+Bangalore,Nagpur,Night,Clear,Weekend,3.82
+Bangalore,Patna,Early Morning,Clear,Holiday,14.79
+Jaipur,Kolkata,Midnight,Rain,Weekend,35.09
+Bangalore,Mumbai,Morning,Clear,Holiday,20.0
+Bhopal,Lucknow,Morning,Thunderstorm,Weekend,51.42
+Pune,Chennai,Midnight,Thunderstorm,Holiday,46.3
+Mumbai,Patna,Midnight,Clear,Weekend,0.0
+Delhi,Pune,Morning,Rain,Holiday,47.96
+Hyderabad,Chennai,Midnight,Thunderstorm,Weekday,37.95
+Chandigarh,Chennai,Midnight,Clear,Weekday,25.96
+Pune,Hyderabad,Midnight,Fog,Holiday,29.21
+Kolkata,Pune,Afternoon,Clear,Holiday,13.89
+Patna,Bangalore,Night,Hail,Holiday,45.53
+Nagpur,Kolkata,Early Morning,Hail,Weekend,40.57
+Pune,Hyderabad,Early Morning,Clear,Weekday,0.0
+Lucknow,Bangalore,Midnight,Fog,Weekday,15.39
+Ahmedabad,Lucknow,Morning,Thunderstorm,Weekend,73.72
+Jaipur,Hyderabad,Evening,Hail,Holiday,57.14
+Chandigarh,Nagpur,Evening,Clear,Weekday,11.45
+Bangalore,Chennai,Night,Rain,Weekend,48.16
+Delhi,Jaipur,Early Morning,Fog,Weekend,40.26
+Mumbai,Ahmedabad,Evening,Rain,Weekend,44.35
+Bangalore,Hyderabad,Early Morning,Fog,Weekend,25.32
+Jaipur,Ahmedabad,Early Morning,Hail,Holiday,76.48
+Kolkata,Jaipur,Evening,Rain,Weekend,41.28
+Pune,Chandigarh,Evening,Thunderstorm,Weekend,74.59
+Kolkata,Bangalore,Afternoon,Thunderstorm,Weekday,47.9
+Ahmedabad,Bangalore,Evening,Rain,Weekday,41.47
+Bangalore,Jaipur,Early Morning,Hail,Weekday,56.03
+Patna,Bangalore,Afternoon,Rain,Holiday,39.96
+Bangalore,Bhopal,Evening,Rain,Weekend,59.56
+Mumbai,Patna,Afternoon,Clear,Holiday,27.62
+Nagpur,Lucknow,Morning,Thunderstorm,Weekday,49.23
+Hyderabad,Ahmedabad,Night,Thunderstorm,Holiday,56.4
+Delhi,Mumbai,Morning,Thunderstorm,Holiday,76.58
+Indore,Bangalore,Early Morning,Hail,Weekend,51.13
+Kolkata,Bangalore,Evening,Thunderstorm,Weekend,67.14
+Pune,Bhopal,Evening,Thunderstorm,Weekend,61.89
+Delhi,Kolkata,Afternoon,Fog,Holiday,49.52
+Lucknow,Delhi,Early Morning,Thunderstorm,Weekday,27.54
+Mumbai,Bhopal,Midnight,Rain,Weekend,34.64
+Chennai,Pune,Night,Hail,Weekend,57.35
+Bhopal,Delhi,Midnight,Hail,Holiday,49.63
+Patna,Delhi,Early Morning,Thunderstorm,Weekend,60.26
+Hyderabad,Chandigarh,Night,Clear,Holiday,28.98
+Mumbai,Delhi,Early Morning,Hail,Weekend,64.39
+Indore,Jaipur,Afternoon,Rain,Holiday,38.73
+Kolkata,Patna,Morning,Fog,Weekday,37.22
+Jaipur,Delhi,Night,Fog,Weekend,38.64
+Indore,Lucknow,Early Morning,Hail,Weekend,70.06
+Pune,Mumbai,Evening,Rain,Weekend,67.72
+Patna,Indore,Afternoon,Rain,Holiday,47.91
+Bhopal,Kolkata,Morning,Thunderstorm,Weekday,50.1
+Indore,Bhopal,Afternoon,Fog,Weekday,31.43
+Jaipur,Mumbai,Evening,Hail,Weekend,64.61
+Lucknow,Bangalore,Early Morning,Fog,Weekend,31.71
+Jaipur,Kolkata,Night,Rain,Holiday,28.69
+Hyderabad,Jaipur,Early Morning,Thunderstorm,Weekend,62.18
+Bangalore,Patna,Afternoon,Clear,Weekday,0.0
+Bangalore,Ahmedabad,Night,Rain,Weekday,50.04
+Bhopal,Nagpur,Evening,Hail,Weekday,63.49
+Patna,Pune,Early Morning,Hail,Holiday,56.26
+Nagpur,Delhi,Afternoon,Thunderstorm,Weekday,44.26
+Chandigarh,Hyderabad,Morning,Hail,Weekend,54.31
+Bangalore,Mumbai,Early Morning,Hail,Holiday,66.24
+Indore,Pune,Evening,Fog,Weekday,49.23
+Ahmedabad,Delhi,Early Morning,Thunderstorm,Weekday,32.87
+Pune,Ahmedabad,Early Morning,Hail,Holiday,77.11
+Ahmedabad,Kolkata,Midnight,Clear,Weekend,5.99
+Kolkata,Bhopal,Evening,Fog,Weekday,47.82
+Bhopal,Chennai,Afternoon,Fog,Weekday,39.05
+Ahmedabad,Delhi,Night,Rain,Weekend,43.32
+Kolkata,Lucknow,Evening,Clear,Holiday,43.28
+Patna,Lucknow,Midnight,Fog,Holiday,41.23
+Pune,Hyderabad,Early Morning,Clear,Weekday,0.0
+Mumbai,Indore,Midnight,Hail,Holiday,35.3
+Chandigarh,Lucknow,Early Morning,Clear,Weekday,0.0
+Bangalore,Hyderabad,Night,Thunderstorm,Weekend,62.85
+Delhi,Ahmedabad,Morning,Rain,Weekday,49.29
+Jaipur,Chandigarh,Early Morning,Thunderstorm,Holiday,52.51
+Bhopal,Chennai,Early Morning,Clear,Weekend,13.46
+Bhopal,Bangalore,Midnight,Thunderstorm,Holiday,52.67
+Delhi,Nagpur,Evening,Clear,Weekend,38.68
+Hyderabad,Bangalore,Midnight,Clear,Weekday,4.06
+Nagpur,Pune,Early Morning,Fog,Holiday,52.33
+Lucknow,Jaipur,Midnight,Clear,Holiday,8.08
+Bangalore,Lucknow,Midnight,Rain,Weekday,47.67
+Ahmedabad,Chennai,Midnight,Clear,Weekend,36.22
+Delhi,Indore,Early Morning,Hail,Weekend,51.3
+Hyderabad,Delhi,Morning,Rain,Holiday,66.83
+Lucknow,Chandigarh,Midnight,Rain,Weekend,35.05
+Indore,Delhi,Evening,Hail,Holiday,64.08
+Lucknow,Ahmedabad,Night,Fog,Weekday,30.74
+Bangalore,Jaipur,Morning,Clear,Weekend,20.69
+Nagpur,Hyderabad,Morning,Fog,Weekend,39.93
+Chennai,Lucknow,Midnight,Thunderstorm,Weekday,46.05
+Hyderabad,Chennai,Early Morning,Rain,Weekend,49.9
+Nagpur,Bangalore,Early Morning,Thunderstorm,Weekend,58.12
+Nagpur,Ahmedabad,Evening,Clear,Weekday,15.05
+Jaipur,Patna,Night,Clear,Weekend,0.0
+Indore,Patna,Midnight,Hail,Weekday,43.07
+Indore,Delhi,Morning,Thunderstorm,Weekend,63.14
+Patna,Chennai,Night,Fog,Weekday,42.63
+Indore,Jaipur,Morning,Hail,Weekend,51.39
+Bangalore,Lucknow,Evening,Hail,Weekend,40.19
+Lucknow,Kolkata,Early Morning,Clear,Weekend,19.54
+Patna,Bangalore,Early Morning,Rain,Holiday,44.42
+Delhi,Patna,Night,Fog,Holiday,35.26
+Indore,Delhi,Midnight,Hail,Weekend,57.42
+Lucknow,Kolkata,Afternoon,Thunderstorm,Weekend,51.09
+Hyderabad,Bangalore,Night,Rain,Holiday,22.96
+Pune,Chandigarh,Morning,Rain,Weekend,45.23
+Pune,Bhopal,Midnight,Hail,Weekend,54.56
+Chandigarh,Kolkata,Early Morning,Clear,Weekday,21.08
+Lucknow,Bangalore,Afternoon,Thunderstorm,Weekday,73.22
+Lucknow,Pune,Early Morning,Hail,Weekday,53.96
+Patna,Hyderabad,Evening,Rain,Weekday,53.49
+Chandigarh,Chennai,Night,Clear,Weekday,5.4
+Chennai,Delhi,Afternoon,Clear,Weekday,18.74
+Indore,Lucknow,Early Morning,Thunderstorm,Weekend,57.25
+Indore,Jaipur,Early Morning,Hail,Weekend,53.04
+Delhi,Lucknow,Evening,Clear,Holiday,30.25
+Patna,Delhi,Evening,Fog,Weekend,34.8
+Bangalore,Bhopal,Early Morning,Rain,Weekend,28.17
+Bhopal,Hyderabad,Midnight,Clear,Weekday,0.0
+Indore,Chennai,Evening,Rain,Weekend,37.57
+Lucknow,Pune,Afternoon,Hail,Holiday,54.38
+Chandigarh,Pune,Early Morning,Rain,Weekday,45.68
+Nagpur,Pune,Early Morning,Fog,Weekend,17.57
+Bangalore,Jaipur,Evening,Rain,Weekend,50.57
+Pune,Nagpur,Evening,Clear,Weekday,21.78
+Chandigarh,Ahmedabad,Midnight,Rain,Weekday,26.44
+Delhi,Bhopal,Midnight,Thunderstorm,Weekend,72.98
+Ahmedabad,Mumbai,Morning,Hail,Holiday,73.49
+Patna,Nagpur,Evening,Thunderstorm,Weekday,55.58
+Lucknow,Bhopal,Morning,Rain,Holiday,37.37
+Chandigarh,Hyderabad,Midnight,Hail,Weekday,55.44
+Patna,Lucknow,Night,Fog,Weekday,26.73
+Jaipur,Indore,Morning,Hail,Weekday,48.2
+Chandigarh,Hyderabad,Early Morning,Fog,Weekend,54.35
+Jaipur,Indore,Evening,Fog,Weekend,55.95
+Jaipur,Chennai,Morning,Thunderstorm,Holiday,67.12
+Nagpur,Pune,Morning,Clear,Weekend,30.15
+Nagpur,Bangalore,Evening,Hail,Weekday,61.41
+Delhi,Hyderabad,Midnight,Thunderstorm,Holiday,45.43
+Delhi,Nagpur,Night,Clear,Holiday,23.59
+Ahmedabad,Chennai,Evening,Clear,Weekend,23.98
+Patna,Indore,Morning,Clear,Weekend,32.01
+Mumbai,Patna,Night,Clear,Holiday,3.26
+Ahmedabad,Delhi,Afternoon,Fog,Weekend,26.48
+Pune,Mumbai,Midnight,Clear,Holiday,24.77
+Indore,Patna,Night,Rain,Holiday,36.04
+Patna,Lucknow,Evening,Hail,Weekend,69.02
+Delhi,Bangalore,Night,Clear,Weekend,14.51
+Nagpur,Chandigarh,Night,Clear,Weekend,2.65
+Pune,Indore,Early Morning,Thunderstorm,Holiday,31.78
+Bhopal,Chandigarh,Afternoon,Fog,Weekday,28.61
+Lucknow,Jaipur,Night,Fog,Weekday,50.44
+Chennai,Pune,Early Morning,Rain,Weekend,18.62
+Lucknow,Pune,Early Morning,Thunderstorm,Holiday,52.34
+Kolkata,Patna,Afternoon,Clear,Weekend,23.44
+Pune,Chennai,Afternoon,Rain,Weekend,34.69
