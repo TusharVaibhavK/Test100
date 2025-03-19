@@ -12,25 +12,60 @@ import plotly.express as px
 
 
 @st.cache_data
+# def load_and_train_model():
+#     df = pd.read_csv('train_delays.csv')
+#     X = df[['From', 'To', 'Time', 'Weather', 'Day Type']]
+#     y = df['Delay (min)']
+
+#     encoder = OneHotEncoder(drop='first', sparse_output=False)
+#     X_encoded = encoder.fit_transform(X)
+#     feature_names = encoder.get_feature_names_out(
+#         ['From', 'To', 'Time', 'Weather', 'Day Type'])
+
+#     model = LinearRegression()
+#     model.fit(X_encoded, y)
+
+#     # Calculate RMSE for confidence interval
+#     y_pred = model.predict(X_encoded)
+#     rmse = np.sqrt(mean_squared_error(y, y_pred))
+
+#     return df, encoder, model, feature_names, rmse
+
+
 def load_and_train_model():
-    df = pd.read_csv('train_delays.csv')
-    X = df[['From', 'To', 'Time', 'Weather', 'Day Type']]
-    y = df['Delay (min)']
+    try:
+        # Load the dataset
+        df = pd.read_csv('train_delays.csv')
 
-    encoder = OneHotEncoder(drop='first', sparse_output=False)
-    X_encoded = encoder.fit_transform(X)
-    feature_names = encoder.get_feature_names_out(
-        ['From', 'To', 'Time', 'Weather', 'Day Type'])
+        # Select features and target
+        X = df[['From', 'To', 'Time', 'Weather', 'Day Type']]
+        y = df['Delay (min)']
 
-    model = LinearRegression()
-    model.fit(X_encoded, y)
+        # Encode categorical features
+        encoder = OneHotEncoder(drop='first', sparse_output=False)
+        X_encoded = encoder.fit_transform(X)
 
-    # Calculate RMSE for confidence interval
-    y_pred = model.predict(X_encoded)
-    rmse = np.sqrt(mean_squared_error(y, y_pred))
+        # Get feature names after encoding
+        feature_names = encoder.get_feature_names_out(X.columns)
 
-    return df, encoder, model, feature_names, rmse
+        # Fit the model
+        model = LinearRegression()
+        model.fit(X_encoded, y)
 
+        # Calculate RMSE for confidence interval
+        y_pred = model.predict(X_encoded)
+        rmse = np.sqrt(mean_squared_error(y, y_pred))
+
+        # Return the model, encoder, feature names, and RMSE
+        return df, encoder, model, feature_names, rmse
+
+    except FileNotFoundError:
+        print("Error: The file 'train_delays.csv' was not found.")
+    except KeyError as e:
+        print(f"Error: Missing column {e} in the dataset.")
+    except Exception as e:
+        print(f"An unexpected error occurred: {e}")
+        
 # Function to predict delay
 
 
