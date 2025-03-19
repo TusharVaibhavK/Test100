@@ -52,15 +52,9 @@ def load_and_train_model():
         model = LinearRegression()
         model.fit(X_encoded, y)
 
-        # Make predictions
+        # Calculate RMSE for confidence interval
         y_pred = model.predict(X_encoded)
-
-        # Check for missing values
-        if df['Delay (min)'].isnull().sum() > 0:
-            raise ValueError("Missing values found in 'Delay (min)' column.")
-
-        # Calculate RMSE
-        rmse = mean_squared_error(y, y_pred, squared=False)
+        rmse = np.sqrt(mean_squared_error(y, y_pred))
 
         # Return the model, encoder, feature names, and RMSE
         return df, encoder, model, feature_names, rmse
